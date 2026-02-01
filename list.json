@@ -2,7 +2,10 @@
   {
     "title": "Vietnam",
     "link": "https://discord.gg/vietnam",
-    "logo": "https://cdn.discordapp.com/icons/1424349264485810309/f31ce390e2044f2da9d0f53f3f396412.webp?size=160&quality=lossless"
+    "logo": "https://cdn.discordapp.com/icons/1424349264485810309/f31ce390e2044f2da9d0f53f3f396412.webp?size=160&quality=lossless",
+        "text": "Projects sayfasında gözükecek açıklama.",
+    "image": "https://.../banner-or-screenshot.png"
+
   },
   {
     "title": "Vietnam",
