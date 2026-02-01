@@ -2,19 +2,22 @@
   {
     "title": "Vietnam",
     "link": "https://discord.gg/vietnam",
-    "logo": "https://cdn.discordapp.com/icons/1424349264485810309/f31ce390e2044f2da9d0f53f3f396412.webp?size=160&quality=lossless",
-        "text": "Projects sayfasında gözükecek açıklama.",
-    "image": "https://cdn.discordapp.com/banners/1424349264485810309/3af80938af9b8ac2710030b410d2fc2f.webp?size=1024"
-
+    "logo": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-one.png",
+    "text": "We own discord.gg/vietnam — the official Vietnam vanity invite. Like grabbing @vietnam on Instagram, but on Discord. A community hub for Vietnam.",
+    "image": "https://raw.githubusercontent.com/xj16/projects/main/assets/vietnam-banner.png"
   },
   {
-    "title": "Vietnam",
-    "link": "https://discord.gg/vietnam",
-    "logo": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-one.png"
+    "title": "Project Two",
+    "link": "https://example.com",
+    "logo": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-two.png",
+    "text": "Short description for Project Two.",
+    "image": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-two-banner.png"
   },
   {
-    "title": "Vietnam",
-    "link": "https://discord.gg/vietnam",
-    "logo": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-one.png"
+    "title": "Project Three",
+    "link": "https://example.com",
+    "logo": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-three.png",
+    "text": "Short description for Project Three.",
+    "image": "https://raw.githubusercontent.com/xj16/projects/main/assets/project-three-banner.png"
   }
 ]
